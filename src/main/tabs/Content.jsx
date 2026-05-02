@@ -1,4 +1,4 @@
-import krisBgm from '../../audio/cyphers_Theme_of_Kris.mp3';
+import krisBgm from '../../audio/cyphers_theme_of_kris.mp3';
 import React, { useState, useEffect } from 'react';
 
 export default function Content() {
