@@ -33,6 +33,9 @@ export default function Header() {
                         <em>티샤</em>
                     </Link>
                 </p>
+                <div style={{position: 'relative', display:'block'}}>
+                    <p style={{position:'absolute', right:'120px', top:'300px'}}>ⓒ초휴</p>
+                </div>
             </div>
         </header>
     );
