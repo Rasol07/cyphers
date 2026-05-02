@@ -1,0 +1,76 @@
+.mainName {
+    font-size: 120px !important; 
+}
+
+.sub .content h2 {
+    letter-spacing : 0px;
+}
+
+.tbl {
+    letter-spacing : 0px;
+}
+
+.vol span {
+    font-weight : 600 !important; 
+} 
+
+.s4_para {
+    font-size : 16px;
+    line-height: 23px;
+}
+
+.s3 h3 {
+    font-size : 24px !important;
+}
+
+.s3-para {
+    font-size : 15px; 
+}
+
+.content h3 {
+    font-size : 23px !important;
+}
+
+.txt {
+    font-size : 16px !important;
+}
+
+.s_menu dt {
+    font-size : 23px !important;
+}
+
+.s_menu a {
+    font-size : 17px !important;
+}
+
+.txt_box {
+    font-size : 16px !important;
+}
+
+.bgm_name span{
+    font-size : 17px !important;
+}
+
+.bgm_name i {
+    font-size : 15px !important;
+}
+
+.fan_kit em {
+    font-size : 16px !important;
+}
+
+.fan_kit i {
+    font-size: 15px !important;
+}
+
+.tab a{
+    font-size : 17px !important;
+}
+
+.name {
+    font-size : 16px !important;
+}
+
+.cmt {
+    font-size : 16px !important;
+}

@@ -1,0 +1,14 @@
+/* 화면 너비가 1280px 이하로 작아졌을 때 적용 */
+@media screen and (max-width: 1280px) {
+    .s_menu {
+        left: 0 !important;
+        margin-left: 0 !important;
+    }
+
+    /* 만약 고정 상태(mn_fix)일 때도 왼쪽으로 붙이고 싶다면 같이 작성 */
+    .s_menu.mn_fix {
+        left: 0 !important;
+        margin-left: 0 !important;
+    }
+}
+
