@@ -3,7 +3,6 @@ import { BrowserRouter as Router, Routes, Route, Navigate } from "react-router-d
 import React, { useState, useEffect } from "react";
 import Header from "./Header.jsx";
 import Sidebar from "./Sidebar.jsx";
-
 import Ability from "./tabs/Ability.jsx";
 import Skill from "./tabs/Skill.jsx";
 import Eclipse from "./tabs/Eclipse.jsx";
@@ -14,7 +13,7 @@ import Voice from "./tabs/Voice.jsx";
 
 export default function App() {
   
-  document.title = "탐미자 크리스 이클립스";
+  
 
   const [showButton, setShowButton] = useState(false);
 
